@@ -1,6 +1,6 @@
-<h1 align="center">TQZap</h1>
+<h1 align="center">Fintech App</h1>
 
-<p><strong>TQZap</strong> is a modern digital payments Android application built entirely in Kotlin, offering users a seamless and secure platform to send, receive, and manage money—similar to how PhonePe operates. Designed with a clean architecture and robust backend integration, TQZap ensures a smooth user experience in financial transactions.</p>
+This is a modern digital payments Android application built entirely in Kotlin, offering users a seamless and secure platform to send, receive, and manage money—similar to how PhonePe operates. Designed with a clean architecture and robust backend integration, TQZap ensures a smooth user experience in financial transactions.</p>
 
 <h2>🛠 Tech Stack & Architecture</h2>
 
