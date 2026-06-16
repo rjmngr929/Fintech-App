@@ -24,9 +24,11 @@ This is a modern digital payments Android application built entirely in Kotlin, 
   <li>Optimized API handling using Retrofit</li>
 </ul>
  
- <h5 class="mb-3">Project Images :</h5>
-        <img src="https://github.com/user-attachments/assets/1de32f36-f693-4d8c-8b04-bdb6ce1146f8" class="porfolio_gallery bg-white rounded" alt="gallery-images" width="600" height="600">
-<!--          <img src="https://github.com/user-attachments/assets/1de32f36-f693-4d8c-8b04-bdb6ce1146f8" class="porfolio_gallery bg-white rounded" alt="gallery-images" width="200" height="400"> -->
+ ## Project Images
 
+<div style="display:flex; flex-wrap:wrap; gap:10px;">
+<img src="https://raw.githubusercontent.com/rjmngr929/Fintech-App/main/fintech.png" width="600" height="600">
+</div>
 
-Note: if anyone need help about this, then contact me on prajapat09rahul@gmail.com
+## Contact
+For any help, contact: prajapat09rahul@gmail.com
